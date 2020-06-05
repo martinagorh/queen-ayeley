@@ -130,8 +130,8 @@ body {
   text-align: center;
 }
 .frame {
-  width: 40vmin;
-  height: 70vmin;
+  width: 60vmin;
+  height: 90vmin;
   background: pink;
   display: grid;
   grid-template-columns: repeat(9, 1fr);
