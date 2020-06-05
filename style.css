@@ -39,7 +39,7 @@ img {
 	height: 150px;
 	width: 150px;
 	border-radius: 50%;
-	margin-bottom: 50px;
+	margin-bottom: 10px;
 }
 
 	
@@ -71,11 +71,11 @@ img {
     white-space: nowrap;    
       
     /* box-sizing: border-box; */
-	animation: chattype 5s steps(30, end), insertionblink 2s step-end 3;
-	animation-duration: 10s;
+	animation: chattype 5s steps(30, end), insertionblink .75s step-end 3;
+	animation-duration: 3s;
 	animation-iteration-count: infinite;
 	
-	animation-delay: 5s;	
+	animation-delay: -2s;	
 	
 }		
 
