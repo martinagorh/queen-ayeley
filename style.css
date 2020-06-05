@@ -2,7 +2,7 @@
 
 .whatsapp-cbutton{		
 	position: fixed;
-	margin-top: -50px;
+	
 	left: 25%;
 	z-index: 99;
 	text-align: center;
@@ -131,6 +131,7 @@ body {
 }
 .frame {
   width: 60vmin;
+  margin-top: -50px;
   height: 90vmin;
   background: pink;
   display: grid;
