@@ -2,7 +2,7 @@
 
 .whatsapp-cbutton{		
 	position: fixed;
-	
+	margin-top: 50px;
 	left: 25%;
 	z-index: 99;
 	text-align: center;
@@ -130,8 +130,8 @@ body {
   text-align: center;
 }
 .frame {
-  width: 60vmin;
-  height: 90vmin;
+  width: 40vmin;
+  height: 70vmin;
   background: pink;
   display: grid;
   grid-template-columns: repeat(9, 1fr);
