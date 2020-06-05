@@ -3,10 +3,10 @@
 .touch{
 	position: fixed;
 	top: 0;	
-	left: 25%;
 	text-align: center;
 	box-shadow: inset 0 0 7px 0 black;
 	color: black;
+	margin-bottom: 30px;
 }
 
 .whatsapp-cbutton{		
